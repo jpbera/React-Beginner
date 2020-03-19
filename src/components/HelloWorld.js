@@ -9,7 +9,7 @@ function HelloWorld() {
     }
     return (
         <div>         
-          <h1>Hey There!!! I'm React Hook</h1>
+          <h1>Hey There!!! I'm React Hook Counter</h1>
           <button onClick={()=>setCount ( count=>count+1)}>Count {count}</button>
         </div>
     )
