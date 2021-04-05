@@ -1,0 +1,17 @@
+{
+  "name": "drbc_api",
+  "version": "1.0.0",
+  "description": "DRBC API for club member user details",
+  "main": "server.js",
+  "scripts": {
+    "start":"nodemon server.js"
+  },
+  "keywords": [
+    "node",
+    "mongo",
+    "express",
+    "jwt"
+  ],
+  "author": "Jyoti Bera",
+  "license": "ISC"
+}
